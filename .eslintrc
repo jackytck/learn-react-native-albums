@@ -1,10 +1,10 @@
 {
   "extends": ["standard", "standard-react"],
-	"rules": {
+  "rules": {
     "react/jsx-no-bind": [2, {
       "allowArrowFunctions": true,
       "allowBind": true,
       "ignoreRefs": true
     }]
-	}
+  }
 }
