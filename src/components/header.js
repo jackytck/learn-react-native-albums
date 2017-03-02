@@ -4,7 +4,7 @@ import {
 } from 'react-native'
 
 const Header = () => {
-  return <Text>Alumns!</Text>
+  return <Text>Albums!</Text>
 }
 
 export default Header
