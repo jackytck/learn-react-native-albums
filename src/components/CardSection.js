@@ -12,7 +12,7 @@ const CardSection = (props) => {
 }
 
 CardSection.propTypes = {
-  children: PropTypes.element.isRequired
+  children: PropTypes.node
 }
 
 const styles = {

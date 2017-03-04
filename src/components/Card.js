@@ -12,7 +12,7 @@ const Card = (props) => {
 }
 
 Card.propTypes = {
-  children: PropTypes.element.isRequired
+  children: PropTypes.node
 }
 
 const styles = {
